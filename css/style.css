@@ -1,0 +1,83 @@
+/*start header*/
+.logo{
+	vertical-align: middle;
+	color: #FA6980;
+	font-size: 13px;
+	margin-top: 21.8px;
+	margin-left: 17px;
+	margin-right: 92px;
+}
+.navigation{
+	display: inline-block;
+}
+.nav{
+	display: inline-block;
+	margin: 0 22px;
+	vertical-align: middle;
+}
+.face-image{
+	margin-left: 40px;
+	vertical-align: middle;
+}
+/*start section*/
+.title1{
+	font: bold;
+	font-size: 24px;
+	margin-left: 140px;
+	margin-top: 75px;
+	margin-bottom: 40px;
+}
+.left-block{
+	display: inline-block;
+	margin-left: 140px;
+}
+.middle-block{
+	display: inline-block;
+}
+.right-block{
+	display: inline-block;
+	/*margin-right: 140px;*/
+}
+.picture{
+	width: 360px;
+	margin: 0 40px;
+}
+.loren{
+	width: 280px;
+	margin: 66px 40px;
+}
+/*start section 2*/
+
+.title2{
+	font: bold;
+	font-size: 24px;
+	margin-left: 140px;
+	margin-bottom: 40px;
+	margin-top: 58px;
+}
+.left-box{
+	display: inline-block;
+	width: 760px;
+	height: 900px;
+	vertical-align: top;
+}
+.left-image{
+	margin-left: 140px;
+	margin-bottom: 40px;
+
+}
+.left-image1{
+	margin-left: 140px;
+
+}
+.right-box{
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 896px;
+	margin-left: 200px;
+}
+.picture1{
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
